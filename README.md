@@ -6,7 +6,7 @@
 
 ### 🔥 About Me
 - 🌱 I’m currently learning Springframework and ....
-- 📫 Reach me at: **khanhmn6@gmail.com**
+- 📫 Reach me at: **khanhlinhmn6@gmail.com**
 - ⚡ Fun fact: I can make and play bamboo flutes myself.
 
 ---
